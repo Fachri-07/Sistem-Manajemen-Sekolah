@@ -2,10 +2,10 @@
 Tugas ini dibuat berdasarkan tugas kelompok Pemrograman Visual yang disusun oleh:
 
 Rizqi Maulana Mahfudz;
-Fachri Bagas Tari;
-Niko Pandu Jaya;
+Fachri Bagas Tami;
+Niko Pandu naya;
 Thoriq Hisbullah Khasyim;
-Haykal Harby Ramadon;
+Haekal Harby Ramadon;
 Morenza Istighfari;
 Hafidz Fakrijal;
 Oktavianus;
